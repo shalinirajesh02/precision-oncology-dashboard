@@ -1,0 +1,12 @@
+pandas
+openpyxl
+numpy
+scipy
+scikit-learn
+lifelines
+matplotlib
+seaborn
+plotly
+streamlit
+python-docx
+requests
